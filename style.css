@@ -1,0 +1,82 @@
+body{
+  margin:0 auto;
+  padding: 0;
+  font-family: cursive,Arial,sans-sans-serif;
+  color:rgba(88, 37, 68, 0.5);
+  background-image: url("https://media3.picsearch.com/is?zvw-xq2zvJJtv3JjfqCFKgDOaNZnrHicHNRWV35iXSU&height=341");
+}
+.navbar{
+  background-color: rgb(199,76,255,0.8) !important;
+  font-size: 1.5rem;
+  color: rgba(88, 37, 68, 0.5);
+}
+.nav-link{
+  color:#fff;
+}
+.navbar-toggler{
+  border-color: #fff !important;
+}
+.jumbotron{
+  background-color: #ff4c68 !important;
+}
+.catimage{
+  padding: 10px;
+}
+h1{
+  text-align: left;
+  font-size: 2rem;
+}
+.row{
+  padding:10px;
+  text-align: center;
+}
+hr{
+  width:50%;
+  border: dashed #ff4c68 1px;
+}
+#carouselcats{
+ background-color:  rgb(255,76,104,0.8) !important;
+}
+.carimage{
+  height:650px;
+  width:400px;
+}
+.imageadvertsize{
+  width: 104px;
+  height: 86px;
+}
+.cff{
+  background-color: rgb(199,76,255,0.8) !important;
+}
+h3{
+  text-align: center;
+  font-size: 1rem;
+}
+.imagsize{
+  width: 341px;
+  height:193px;
+}
+.imagsize1{
+  width:341px;
+  height:340px;
+}
+.imagsize2{
+  width:341px;
+  height:332px;
+}
+.imagsize3{
+  width:341px;
+  height:332px;
+}
+.imagsize4{
+  width:341px;
+  height:332px;
+}
+.secslideform{
+  background-color: rgb(199,76,255,0.8) !important;
+
+}
+.alinecenter{
+  margin-left: auto;
+  margin-right: auto;
+}
